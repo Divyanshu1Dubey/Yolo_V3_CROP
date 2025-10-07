@@ -1,0 +1,11 @@
+Soil_Type,Crop_Type,N,P,K,Recommended_Fertilizer
+Loamy,Wheat,90,40,60,Urea
+Clay,Rice,120,50,70,DAP
+Sandy,Maize,60,30,40,Compost
+Loamy,Sugarcane,100,45,65,Urea
+Clay,Wheat,110,55,75,DAP
+Sandy,Rice,70,35,50,MOP
+Loamy,Maize,80,38,55,Compost
+Clay,Sugarcane,130,60,85,DAP
+Sandy,Wheat,65,25,45,Urea
+Loamy,Rice,95,42,62,MOP
