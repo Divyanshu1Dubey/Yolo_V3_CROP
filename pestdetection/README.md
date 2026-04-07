@@ -1,6 +1,7 @@
 # Plant Pest Detection Using YOLOv8 Nano 🦟
 
-> **Note**  
+> **Note**
+> 
 > This is the second iteration of the model.
 
 ## Installation 🔧
